@@ -13,15 +13,16 @@
         <div class="text-center mb-8">
             <div class="inline-flex items-center justify-center space-x-2 bg-white/10 backdrop-blur-md px-5 py-2.5 rounded-2xl border border-white/15 shadow-xl mb-4">
                 <div class="flex items-center space-x-1 font-black text-2xl tracking-wider">
-                    <span class="text-blue-400">INDO</span><span class="text-red-500">POS</span>
+                    <span class="text-blue-400">Anto Okedeh</span><span class="text-red-500">POS</span>
                 </div>
                 <span class="text-xs font-semibold px-2 py-0.5 bg-yellow-400/20 text-yellow-300 rounded-md border border-yellow-400/30">RETAIL</span>
             </div>
-            <h1 class="text-2xl font-bold text-white tracking-tight">Point of Sale & Inventory</h1>
+            <h1 class="text-2xl font-bold text-white tracking-tight">Kasir dan Gudangd dddd</h1>
             <p class="text-sm text-slate-400 mt-1">Sistem Terpadu Kasir, Gudang, & Analisis Admin</p>
+            <p class="text-sm text-slate-400 mt-1">by Anto Okedeh  hgghjkkjjkl jhgjhjkhjkbkjjhkhkhk</p>
         </div>
 
-        <!-- Login Card -->
+        
         <div class="bg-white/95 backdrop-blur-xl rounded-3xl shadow-2xl border border-white/40 p-8">
             <h2 class="text-lg font-bold text-slate-800 mb-6 flex items-center">
                 <i class="fa-solid fa-lock text-blue-600 mr-2.5"></i> Masuk ke Akun Anda
